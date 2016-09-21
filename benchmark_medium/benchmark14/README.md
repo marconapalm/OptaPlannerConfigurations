@@ -1,5 +1,5 @@
 CH:
-- Strongest Fit Decreasing.
+- Strongest Fit.
 
 MH:
 - Tabu Search;

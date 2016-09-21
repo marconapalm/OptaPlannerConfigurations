@@ -10,4 +10,4 @@ Index:
 
 References:
 - OptaPlanner official website: http://www.optaplanner.org/
-- My little research: 
+- My little research (IT language): https://www.academia.edu/28647074/Benchmarking_degli_algoritmi_implementati_da_OptaPlanner_nel_caso_del_Nurse_Rostering_
